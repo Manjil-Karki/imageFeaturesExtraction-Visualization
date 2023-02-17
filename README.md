@@ -1,8 +1,8 @@
 
 # Image Feature Extraction And Visualization
 
-The code in this repo extract features from images and visualize them using python Dash
-Features like:
+The code in this repo extract features from images and visualize them using plotly then present using python dash in web-page format.
+some features are:
 * Color Space
 * color Histogram
 * some Metadata
